@@ -183,13 +183,13 @@ menu that has your superuser account (mine is called wsv ). Make sure an author 
 a title and body content then click on the “Save” button.
   
   
-![Admin add blog post](images/1.png)
+![Admin add blog post](https://github.com/ftg-iran/dfa-persian/blob/main/05-Blog-Api/https://github.com/ftg-iran/dfa-persian/blob/main/06-Permissions/images/1.png)
   
   
 You will be redirected to the Posts page which displays all existing blog posts.
   
   
-![Admin blog posts](images/2.png)
+![Admin blog posts](https://github.com/ftg-iran/dfa-persian/blob/main/05-Blog-Api/https://github.com/ftg-iran/dfa-persian/blob/main/06-Permissions/images/2.png)
   
   
 ### Tests
@@ -540,7 +540,7 @@ Command Line
   
 Then go to http://127.0.0.1:8000/api/v1/ to see the Post List endpoint.
 
-![API Post List](images/3.png)
+![API Post List](https://github.com/ftg-iran/dfa-persian/blob/main/05-Blog-Api/https://github.com/ftg-iran/dfa-persian/blob/main/06-Permissions/images/3.png)
   
   
 The page displays a list of our blog posts—just one at the moment—in JSON format. Note that
@@ -553,7 +553,7 @@ a list of all posts—exists.
   
 Go to http://127.0.0.1:8000/api/v1/1/ .
   
-![API Post Detail](images/4.png)
+![API Post Detail](https://github.com/ftg-iran/dfa-persian/blob/main/05-Blog-Api/https://github.com/ftg-iran/dfa-persian/blob/main/06-Permissions/images/4.png)
   
   
 You can see in the header that GET , PUT , PATCH , and DELETE are supported but not POST . And in
@@ -564,12 +564,12 @@ to delete the instance.
 Let’s try things out. Update our title with the additional text (edited) at the end. Then click
 on the “PUT” button.
   
-![API Post Detail edited](images/5.png)
+![API Post Detail edited](https://github.com/ftg-iran/dfa-persian/blob/main/05-Blog-Api/https://github.com/ftg-iran/dfa-persian/blob/main/06-Permissions/images/5.png)
 
 Go back to the Post List view by clicking on the link for it at the top of the page or navigating
 directly to http://127.0.0.1:8000/api/v1/ and you can see the updated text there as well.
   
-![API Post List edited](images/6.png)
+![API Post List edited](https://github.com/ftg-iran/dfa-persian/blob/main/05-Blog-Api/https://github.com/ftg-iran/dfa-persian/blob/main/06-Permissions/images/6.png)
   
   
   
